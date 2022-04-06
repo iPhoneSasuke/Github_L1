@@ -8,6 +8,6 @@ public class Main {
     }
 
     public static void another() {
-        System.out.println("New lime Sinema");
+        System.out.println("New line Cinema");
     }
 }
