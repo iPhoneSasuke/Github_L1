@@ -6,7 +6,4 @@ public class Main {
         System.out.println("death to all heretics");
         System.out.println("new word");
     }
-public static void another() {
-    System.out.println("another strange line");
-    }
 }
